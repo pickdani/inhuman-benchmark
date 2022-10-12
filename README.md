@@ -1,2 +1,3 @@
 # inhuman-benchmark
-solve humanbenchmark.com with python
+
+> A bot to get the maximum score on humanbenchmark.com aim trainer / test
